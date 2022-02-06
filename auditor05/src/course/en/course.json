@@ -1,0 +1,295 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "_classes": "",
+  "_htmlClasses": "",
+  "title": "Auditor de procesos 05",
+  "displayTitle": "AUDITOR DE PROCESOS 05: PASO A PASO PARA CREAR UN PROCESO.",
+  "description": "¡Bienvenido al curso de auditor de procesos! Recuerda que para poder terminar todo el módulo de enseñanza, debes completar al 100% todas las actividades y obtener una calificación perfecta en la evaluación final. ¡Buen aprendizaje!",
+  "body": "¡Bienvenido al curso de auditor de procesos! Recuerda que para poder terminar todo el módulo de enseñanza, debes completar al 100% todas las actividades y obtener una calificación perfecta en la evaluación final. ¡Buen aprendizaje!",
+  "instruction": "",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Enviar",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reiniciar",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Mostrar respuesta correcta",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Mostrar tu respuesta",
+      "ariaLabel": "Show your answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Mostrar retroalimentación",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_globals": {
+    "_learnerInfo": {
+      "id": "student.name@example.org",
+      "name": "Name, Student",
+      "firstname": "Student",
+      "lastname": "Name"
+    },
+    "_accessibility": {
+      "skipNavigationText": "Saltar navegación",
+      "_ariaLabels": {
+        "answeredIncorrectly": "Respuesta incorrecta",
+        "answeredCorrectly": "Respuesta correcta",
+        "selectedAnswer": "seleccionada",
+        "unselectedAnswer": "sin seleccionar",
+        "skipNavigation": "Saltar Navegación",
+        "previous": "Volver",
+        "navigationDrawer": "Abrir recursos.",
+        "close": "Cerrar",
+        "closeDrawer": "Close drawer",
+        "closeResources": "Cerrar recursos",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Siguiente",
+        "done": "Hecho",
+        "complete": "Completo",
+        "incomplete": "Incompleto",
+        "incorrect": "Incorrecto",
+        "correct": "Correcto",
+        "locked": "Bloqueado",
+        "visited": "Visitado"
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duración:"
+      }
+    }
+  },
+  "_latestTrackingId": 20,
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": false,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "title": "Recursos",
+    "description": "View resources for this course by clicking here.",
+    "_filterButtons": {
+      "all": "Todos",
+      "document": "Documentos",
+      "media": "Medios",
+      "link": "Enlaces"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "link",
+        "title": "BMW Group",
+        "description": "Portal Oficial BMW.",
+        "_link": "https://www.bmwgroup.com/en.html"
+      }
+    ]
+  },
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [
+      {
+        "_id": "co-05",
+        "_skipIfComplete": true,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 100,
+    "_correctToPass": 100
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "title": "¿Continuar?",
+    "body": "¿Te gustaría seguir donde quedaste la última vez?",
+    "_buttons": {
+      "yes": "Si",
+      "no": "No"
+    }
+  },
+  "_logo": {
+    "_isEnabled": true,
+    "_position": "center",
+    "_graphic": {
+      "_isEnabled": true,
+      "_large": "course/en/images/logo.svg",
+      "_medium": "course/en/images/logo.svg",
+      "_small": "course/en/images/logo.svg"
+    },
+    "_title": {
+      "_isEnabled": false,
+      "large": "",
+      "medium": "",
+      "small": ""
+    },
+    "_link": {
+      "_isEnabled": false,
+      "_parentPage": true
+    }
+  },
+  "_boxMenu": {
+    "_backgroundImage": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": null,
+      "_backgroundSize": null,
+      "_backgroundPosition": null
+    },
+    "_menuHeader": {
+      "_backgroundImage": {
+        "_large": "course/en/images/cover.jpg",
+        "_medium": "course/en/images/cover.jpg",
+        "_small": "course/en/images/cover.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
+  },
+  "themeVariables": {
+    "_global": {
+      "font-color": "#262626",
+      "font-color-inverted": "#ffffff",
+      "link": "",
+      "link-inverted": "",
+      "link-hover": "",
+      "link-inverted-hover": "",
+      "heading-color": "#0083c6",
+      "heading-color-inverted": "#ffffff"
+    },
+    "_items": {
+      "item-color": "#0083c6",
+      "item-color-inverted": "#ffffff",
+      "item-color-hover": "",
+      "item-color-inverted-hover": "",
+      "item-color-selected": "",
+      "item-color-inverted-selected": "",
+      "visited": "#727272",
+      "visited-inverted": "#ffffff"
+    },
+    "_buttons": {
+      "btn-color": "#262626",
+      "btn-color-inverted": "#ffffff",
+      "btn-color-hover": "",
+      "btn-color-inverted-hover": "",
+      "btn-icon-color": "",
+      "btn-icon-color-inverted": "",
+      "btn-icon-color-hover": "",
+      "btn-icon-color-inverted-hover": "",
+      "disabled": "#dddddd",
+      "disabled-inverted": "#000000"
+    },
+    "_validation": {
+      "validation-success": "#a2ad00",
+      "validation-success-inverted": "#ffffff",
+      "validation-error": "#ff0000",
+      "validation-error-inverted": "#ffffff"
+    },
+    "_progress": {
+      "progress": "#b1b1b1",
+      "progress-inverted": "#ffffff",
+      "progress-border": "#b1b1b1"
+    },
+    "_menu": {
+      "menu-item": "",
+      "menu-item-inverted": "",
+      "menu-item-border-color": "",
+      "menu-item-progress": "",
+      "menu-item-progress-inverted": "",
+      "menu-item-progress-border": "",
+      "menu-item-btn-color": "",
+      "menu-item-btn-color-inverted": "",
+      "menu-item-btn-color-hover": "",
+      "menu-item-btn-color-inverted-hover": ""
+    },
+    "_nav": {
+      "nav": "#ffffff",
+      "nav-inverted": "#9096a0",
+      "nav-icon": "",
+      "nav-icon-inverted": "",
+      "nav-icon-hover": "",
+      "nav-icon-inverted-hover": "",
+      "nav-progress": "",
+      "nav-progress-inverted": "",
+      "nav-progress-border": "",
+      "nav-progress-hover": "",
+      "nav-progress-inverted-hover": "",
+      "nav-progress-border-hover": ""
+    },
+    "_notify": {
+      "notify": "#0083c6",
+      "notify-inverted": "#ffffff",
+      "notify-link": "",
+      "notify-link-hover": "",
+      "notify-btn": "",
+      "notify-btn-inverted": "",
+      "notify-btn-hover": "",
+      "notify-btn-inverted-hover": "",
+      "notify-icon": "",
+      "notify-icon-inverted": "",
+      "notify-icon-hover": "",
+      "notify-icon-inverted-hover": ""
+    },
+    "_drawer": {
+      "drawer": "#0083c6",
+      "drawer-inverted": "#ffffff",
+      "drawer-link": "",
+      "drawer-link-hover": "",
+      "drawer-icon": "",
+      "drawer-icon-inverted": "",
+      "drawer-icon-hover": "",
+      "drawer-icon-inverted-hover": "",
+      "drawer-item": "",
+      "drawer-item-inverted": "",
+      "drawer-item-hover": "",
+      "drawer-item-inverted-hover": "",
+      "drawer-item-selected": "",
+      "drawer-item-inverted-selected": "",
+      "drawer-progress": "",
+      "drawer-progress-inverted": "",
+      "drawer-progress-border": "",
+      "drawer-progress-hover": "",
+      "drawer-progress-inverted-hover": "",
+      "drawer-progress-border-hover": ""
+    },
+    "_misc": {
+      "background": "#000000",
+      "background-inverted": "#ffffff",
+      "shadow": "#000000",
+      "shadow-inverted": "#ffffff"
+    }
+  }
+}
